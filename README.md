@@ -13,11 +13,8 @@ Here is an overview of research paper classified by theme:
 (Replace the column by their respective badges).
 
 ## [Architecture](https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture)
-<i></i> | Tensorflow 1| Tensorflow 2 | Pytorch
+<i></i> | ![](./img/tensorflow_1_badge.svg)| ![](./img/tensorflow_2_badge.svg) | ![](./img/pytorch_badge.svg)
 --------| -------------|-------------|--------
 [LeNet-5](https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/lenet-5/tensorflow_1)| X| X| X 
 
-
-
-![](./img/tensorflow_1_badge.svg)
 
