@@ -19,6 +19,5 @@ Here is an overview of research paper classified by theme:
 
 
 
-
-
+![](./img/tensorflow_1_badge.svg)
 
