@@ -2,8 +2,6 @@
   <img src="./img/logo.png">
 </div>
 
-# Research Paper Summary
-
 This repository aims to make a concise summary of deep learning research paper that I have read including implementation if needed.
 
 Here is an overview of research paper classified by theme:
