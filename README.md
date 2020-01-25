@@ -11,7 +11,7 @@ Here is an overview of research paper classified by theme:
 <i></i>           | [![](./img/tensorflow_1_badge.svg)][tf1-badge] | [![](./img/tensorflow_2_badge.svg)][tf2-badge] | [![](./img/pytorch_badge.svg)][pytorch-badge]
 ------------------| :---------------------------------------------:|:----------------------------------------------:|:-------------------------------------------:
 [LeNet-5][lenet5] | [&check;][lenet5-tf1]                          | [&check;][lenet5-tf2]                          | [&check;][lenet5-pytorch]                  |
-[AlexNet][alexnet]|                                                |                                                | [&check;][alexnet-pytorch]                 |
+[AlexNet][alexnet]|                                                | [&check;][alexnet-tf2]                         |                                            |
 
 # Getting Started
 
@@ -31,4 +31,4 @@ Variables with links.
 [lenet5-pytorch]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/lenet-5/pytorch
 
 [alexnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/alexnet/
-[alexnet-pytorch]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/alexnet/pytorch
+[alexnet-tf2]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/alexnet/tensorflow_2
