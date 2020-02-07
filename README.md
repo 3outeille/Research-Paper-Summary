@@ -12,6 +12,7 @@ Here is an overview of research paper classified by theme:
 ------------------| :---------------------------------------------:|:----------------------------------------------:|:-------------------------------------------:
 [LeNet-5][lenet5] | [&check;][lenet5-tf1]                          | [&check;][lenet5-tf2]                          | [&check;][lenet5-pytorch]                  |
 [AlexNet][alexnet]|                                                | [&check;][alexnet-tf2]                         |                                            |
+[ZFNet][zfnet]    |                                                |                                                | [&check;][zfnet-pytorch]                   |
 
 # Getting Started
 
@@ -32,3 +33,7 @@ Variables with links.
 
 [alexnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/alexnet/
 [alexnet-tf2]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/alexnet/tensorflow_2
+
+
+[zfnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/zfnet
+[zfnet-pytorch]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/zfnet/pytorch
