@@ -17,6 +17,7 @@ Here is an overview of research paper classified by theme:
 # Getting Started
 
 Source: The logo was made by [Ortega Graphics](https://dribbble.com/shots/6313838-Book-Tower-Logo).
+Used only for educationnal purpose.
 
 
 <!---

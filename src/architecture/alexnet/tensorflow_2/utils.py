@@ -1,6 +1,13 @@
 import numpy as np
 
-def load_weights(model, dic):
+def load_model(model, dic):
+    """
+        Loads weights/biases to model.
+        
+        Parameters:
+        -model: untrained model.
+        -dic: dictionnary with pretrained weights/biases.
+    """
     for key in dic:
         if key in ['conv2', 'conv4', 'conv5']:
             half = dic[key][0].shape[-1] // 2
@@ -13,7 +20,15 @@ def load_weights(model, dic):
 
 
 def check_loaded(model, dic):
-     for key in dic:
+    """
+        Checks if weights/biases were properly load.
+
+        Parameters:
+        -model: trained model.
+        -dic: dictionnary with pretrained weights/biases.
+
+    """
+    for key in dic:
         if key in ['conv2', 'conv4', 'conv5']:
             weights = np.concatenate([model.get_layer(key + '_1').get_weights()[0],
                                       model.get_layer(key + '_2').get_weights()[0]], axis=-1)
