@@ -1,0 +1,112 @@
+Training model:
+---------------
+
+Epoch 1/20
+1249/1250 [============================>.] - ETA: 0s - loss: 2.6273 - acc: 0.4826Epoch 1/20
+ 312/1250 [======>.......................] - ETA: 44s - loss: 0.8620 - acc: 0.7637
+Epoch 00001: acc improved from -inf to 0.48278, saving model to save_weight/weights-improvement-01-0.4828.hdf5
+1250/1250 [==============================] - 346s 277ms/step - loss: 2.6262 - acc: 0.4828 - val_loss: 0.8620 - val_acc: 0.7637
+Epoch 2/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.9289 - acc: 0.7581Epoch 1/20
+ 312/1250 [======>.......................] - ETA: 39s - loss: 0.4934 - acc: 0.8561
+Epoch 00002: acc improved from 0.48278 to 0.75815, saving model to save_weight/weights-improvement-02-0.7581.hdf5
+1250/1250 [==============================] - 319s 256ms/step - loss: 0.9287 - acc: 0.7581 - val_loss: 0.4934 - val_acc: 0.8561
+Epoch 3/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.5560 - acc: 0.8365Epoch 1/20
+ 312/1250 [======>.......................] - ETA: 39s - loss: 0.3558 - acc: 0.8909
+Epoch 00003: acc improved from 0.75815 to 0.83655, saving model to save_weight/weights-improvement-03-0.8365.hdf5
+1250/1250 [==============================] - 319s 255ms/step - loss: 0.5559 - acc: 0.8365 - val_loss: 0.3558 - val_acc: 0.8909
+Epoch 4/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.3992 - acc: 0.8772Epoch 1/20
+ 311/1250 [======>.......................] - ETA: 39s - loss: 0.2856 - acc: 0.9108
+Epoch 00004: acc improved from 0.83655 to 0.87708, saving model to save_weight/weights-improvement-04-0.8771.hdf5
+1250/1250 [==============================] - 319s 255ms/step - loss: 0.3994 - acc: 0.8771 - val_loss: 0.2855 - val_acc: 0.9109
+Epoch 5/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.3108 - acc: 0.8996Epoch 1/20
+ 311/1250 [======>.......................] - ETA: 39s - loss: 0.2530 - acc: 0.9233
+Epoch 00005: acc improved from 0.87708 to 0.89955, saving model to save_weight/weights-improvement-05-0.8996.hdf5
+1250/1250 [==============================] - 318s 255ms/step - loss: 0.3109 - acc: 0.8996 - val_loss: 0.2526 - val_acc: 0.9235
+Epoch 6/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.2560 - acc: 0.9175Epoch 1/20
+ 312/1250 [======>.......................] - ETA: 39s - loss: 0.2333 - acc: 0.9300
+Epoch 00006: acc improved from 0.89955 to 0.91758, saving model to save_weight/weights-improvement-06-0.9176.hdf5
+1250/1250 [==============================] - 319s 255ms/step - loss: 0.2558 - acc: 0.9176 - val_loss: 0.2333 - val_acc: 0.9300
+Epoch 7/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.2059 - acc: 0.9328Epoch 1/20
+ 312/1250 [======>.......................] - ETA: 39s - loss: 0.2092 - acc: 0.9356
+Epoch 00007: acc improved from 0.91758 to 0.93283, saving model to save_weight/weights-improvement-07-0.9328.hdf5
+1250/1250 [==============================] - 319s 255ms/step - loss: 0.2060 - acc: 0.9328 - val_loss: 0.2092 - val_acc: 0.9356
+Epoch 8/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.1756 - acc: 0.9414Epoch 1/20
+ 312/1250 [======>.......................] - ETA: 39s - loss: 0.2011 - acc: 0.9417
+Epoch 00008: acc improved from 0.93283 to 0.94140, saving model to save_weight/weights-improvement-08-0.9414.hdf5
+1250/1250 [==============================] - 319s 255ms/step - loss: 0.1755 - acc: 0.9414 - val_loss: 0.2011 - val_acc: 0.9417
+Epoch 9/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.1539 - acc: 0.9499Epoch 1/20
+ 311/1250 [======>.......................] - ETA: 39s - loss: 0.1905 - acc: 0.9442
+Epoch 00009: acc improved from 0.94140 to 0.94987, saving model to save_weight/weights-improvement-09-0.9499.hdf5
+1250/1250 [==============================] - 319s 255ms/step - loss: 0.1539 - acc: 0.9499 - val_loss: 0.1905 - val_acc: 0.9442
+Epoch 10/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.1284 - acc: 0.9558Epoch 1/20
+ 311/1250 [======>.......................] - ETA: 39s - loss: 0.1898 - acc: 0.9442
+Epoch 00010: acc improved from 0.94987 to 0.95573, saving model to save_weight/weights-improvement-10-0.9557.hdf5
+1250/1250 [==============================] - 319s 256ms/step - loss: 0.1285 - acc: 0.9557 - val_loss: 0.1899 - val_acc: 0.9442
+Epoch 11/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.1117 - acc: 0.9625Epoch 1/20
+ 311/1250 [======>.......................] - ETA: 39s - loss: 0.1828 - acc: 0.9489
+Epoch 00011: acc improved from 0.95573 to 0.96250, saving model to save_weight/weights-improvement-11-0.9625.hdf5
+1250/1250 [==============================] - 319s 255ms/step - loss: 0.1117 - acc: 0.9625 - val_loss: 0.1830 - val_acc: 0.9487
+Epoch 12/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.0922 - acc: 0.9682Epoch 1/20
+ 311/1250 [======>.......................] - ETA: 39s - loss: 0.1867 - acc: 0.9495
+Epoch 00012: acc improved from 0.96250 to 0.96825, saving model to save_weight/weights-improvement-12-0.9682.hdf5
+1250/1250 [==============================] - 319s 255ms/step - loss: 0.0921 - acc: 0.9682 - val_loss: 0.1869 - val_acc: 0.9493
+Epoch 13/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.0823 - acc: 0.9715Epoch 1/20
+ 311/1250 [======>.......................] - ETA: 39s - loss: 0.1872 - acc: 0.9506
+Epoch 00013: acc improved from 0.96825 to 0.97145, saving model to save_weight/weights-improvement-13-0.9714.hdf5
+1250/1250 [==============================] - 319s 255ms/step - loss: 0.0823 - acc: 0.9714 - val_loss: 0.1874 - val_acc: 0.9504
+Epoch 14/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.0733 - acc: 0.9751Epoch 1/20
+ 312/1250 [======>.......................] - ETA: 39s - loss: 0.1804 - acc: 0.9534
+Epoch 00014: acc improved from 0.97145 to 0.97515, saving model to save_weight/weights-improvement-14-0.9751.hdf5
+1250/1250 [==============================] - 319s 255ms/step - loss: 0.0733 - acc: 0.9751 - val_loss: 0.1804 - val_acc: 0.9534
+Epoch 15/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.0609 - acc: 0.9788Epoch 1/20
+ 312/1250 [======>.......................] - ETA: 39s - loss: 0.1829 - acc: 0.9528
+Epoch 00015: acc improved from 0.97515 to 0.97880, saving model to save_weight/weights-improvement-15-0.9788.hdf5
+1250/1250 [==============================] - 319s 256ms/step - loss: 0.0609 - acc: 0.9788 - val_loss: 0.1829 - val_acc: 0.9528
+Epoch 16/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.0568 - acc: 0.9807Epoch 1/20
+ 312/1250 [======>.......................] - ETA: 39s - loss: 0.1839 - acc: 0.9543
+Epoch 00016: acc improved from 0.97880 to 0.98067, saving model to save_weight/weights-improvement-16-0.9807.hdf5
+1250/1250 [==============================] - 319s 256ms/step - loss: 0.0570 - acc: 0.9807 - val_loss: 0.1839 - val_acc: 0.9543
+Epoch 17/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.0498 - acc: 0.9832Epoch 1/20
+ 311/1250 [======>.......................] - ETA: 39s - loss: 0.1870 - acc: 0.9551
+Epoch 00017: acc improved from 0.98067 to 0.98317, saving model to save_weight/weights-improvement-17-0.9832.hdf5
+1250/1250 [==============================] - 319s 255ms/step - loss: 0.0497 - acc: 0.9832 - val_loss: 0.1874 - val_acc: 0.9549
+Epoch 18/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.0442 - acc: 0.9849Epoch 1/20
+ 311/1250 [======>.......................] - ETA: 40s - loss: 0.1883 - acc: 0.9545
+Epoch 00018: acc improved from 0.98317 to 0.98492, saving model to save_weight/weights-improvement-18-0.9849.hdf5
+1250/1250 [==============================] - 319s 255ms/step - loss: 0.0441 - acc: 0.9849 - val_loss: 0.1886 - val_acc: 0.9543
+Epoch 19/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.0388 - acc: 0.9867Epoch 1/20
+ 312/1250 [======>.......................] - ETA: 39s - loss: 0.1878 - acc: 0.9569
+Epoch 00019: acc improved from 0.98492 to 0.98670, saving model to save_weight/weights-improvement-19-0.9867.hdf5
+1250/1250 [==============================] - 319s 255ms/step - loss: 0.0388 - acc: 0.9867 - val_loss: 0.1878 - val_acc: 0.9569
+Epoch 20/20
+1249/1250 [============================>.] - ETA: 0s - loss: 0.0336 - acc: 0.9887Epoch 1/20
+ 311/1250 [======>.......................] - ETA: 39s - loss: 0.1972 - acc: 0.9561
+Epoch 00020: acc improved from 0.98670 to 0.98873, saving model to save_weight/weights-improvement-20-0.9887.hdf5
+1250/1250 [==============================] - 318s 254ms/step - loss: 0.0335 - acc: 0.9887 - val_loss: 0.1974 - val_acc: 0.9559
+
+<tensorflow.python.keras.callbacks.History at 0x7fb47b61b7b8>
+
+Evaluate model:
+---------------
+
+313/313 [==============================] - 17s 55ms/step - loss: 0.1993 - acc: 0.9545
+[0.19930034078793243, 0.9545]
+
