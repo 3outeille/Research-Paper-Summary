@@ -6,6 +6,7 @@ from scipy import misc
 from six.moves import urllib
 import tarfile
 
+# Credits to: https://github.com/fazilaltinel/CINIC-10-TFLoader
 
 def loadData(pathToDatasetFolder, oneHot=False):
     """
