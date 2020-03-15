@@ -13,6 +13,7 @@ Here is an overview of research paper classified by theme:
 [LeNet-5][lenet5]           | [&check;][lenet5-tf1]                          | [&check;][lenet5-tf2]                          | [&check;][lenet5-pytorch]                  |
 [AlexNet][alexnet]          |                                                | [&check;][alexnet-tf2]                         |                                            |
 [ZFNet/DeconvNet][zfnet]    |                                                |                                                | [&check;][zfnet-pytorch]                   |
+[VggNet][vggnet]            |                                                |                                                |                                            |
 [EfficientNet][efficientnet]|                                                | [&check;][efficientnet-tf2]                    |                                            |
 
 
@@ -41,3 +42,4 @@ Variables with links.
 [efficientnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/efficientnet
 [efficientnet-tf2]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/efficientnet/tensorflow_2
 
+[vggnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/vgg
