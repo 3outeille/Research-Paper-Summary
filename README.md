@@ -13,6 +13,7 @@ Here is an overview of research paper classified by theme:
 [LeNet-5][lenet5]           | [&check;][lenet5-tf1]                          | [&check;][lenet5-tf2]                          | [&check;][lenet5-pytorch]                  |
 [AlexNet][alexnet]          |                                                | [&check;][alexnet-tf2]                         |                                            |
 [ZFNet/DeconvNet][zfnet]    |                                                |                                                | [&check;][zfnet-pytorch]                   |
+[GoogleNet][googlenet]      |                                                |                                                |                                            |
 [VggNet][vggnet]            |                                                |                                                | [&check;][vggnet-pytorch]                  |
 [EfficientNet][efficientnet]|                                                | [&check;][efficientnet-tf2]                    |                                            |
 
@@ -39,8 +40,12 @@ Variables with links.
 [zfnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/zfnet
 [zfnet-pytorch]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/zfnet/pytorch
 
-[efficientnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/efficientnet
-[efficientnet-tf2]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/efficientnet/tensorflow_2
+[googlenet]:
 
 [vggnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/vgg
 [vggnet-pytorch]: https://github.com/3outeille/Research-Paper-Summary/blob/master/src/architecture/vgg/pytorch/
+
+[efficientnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/efficientnet
+[efficientnet-tf2]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/efficientnet/tensorflow_2
+
+
