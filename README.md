@@ -40,7 +40,7 @@ Variables with links.
 [zfnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/zfnet
 [zfnet-pytorch]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/zfnet/pytorch
 
-[googlenet]:
+[googlenet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/googlenet
 
 [vggnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/vgg
 [vggnet-pytorch]: https://github.com/3outeille/Research-Paper-Summary/blob/master/src/architecture/vgg/pytorch/
