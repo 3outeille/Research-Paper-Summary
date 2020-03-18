@@ -8,14 +8,14 @@ Here is an overview of research paper classified by theme:
 
 ## Architecture
 
-<i></i>                     | [![](./img/tensorflow_1_badge.svg)][tf1-badge] | [![](./img/tensorflow_2_badge.svg)][tf2-badge] |[![](./img/pytorch_badge.svg)][pytorch-badge]
-------------------          | :---------------------------------------------:|:----------------------------------------------:|:-------------------------------------------:
-[LeNet-5][lenet5]           | [&check;][lenet5-tf1]                          | [&check;][lenet5-tf2]                          | [&check;][lenet5-pytorch]                  |
-[AlexNet][alexnet]          |                                                | [&check;][alexnet-tf2]                         |                                            |
-[ZFNet/DeconvNet][zfnet]    |                                                |                                                | [&check;][zfnet-pytorch]                   |
-[GoogleNet][googlenet]      |                                                |                                                |                                            |
-[VggNet][vggnet]            |                                                |                                                | [&check;][vggnet-pytorch]                  |
-[EfficientNet][efficientnet]|                                                | [&check;][efficientnet-tf2]                    |                                            |
+<i></i>                                 | [![](./img/tensorflow_1_badge.svg)][tf1-badge] | [![](./img/tensorflow_2_badge.svg)][tf2-badge] |[![](./img/pytorch_badge.svg)][pytorch-badge]
+------------------                      | :---------------------------------------------:|:----------------------------------------------:|:-------------------------------------------:
+[LeNet-5][lenet5]                       | [&check;][lenet5-tf1]                          | [&check;][lenet5-tf2]                          | [&check;][lenet5-pytorch]                  |
+[AlexNet][alexnet]                      |                                                | [&check;][alexnet-tf2]                         |                                            |
+[ZFNet/DeconvNet][zfnet]                |                                                |                                                | [&check;][zfnet-pytorch]                   |
+[InceptionV1(GoogLeNet)][inceptionv1]   |                                                |                                                |                                            |
+[VggNet][vggnet]                        |                                                |                                                | [&check;][vggnet-pytorch]                  |
+[EfficientNet][efficientnet]            |                                                | [&check;][efficientnet-tf2]                    |                                            |
 
 
 # Getting Started
@@ -40,7 +40,7 @@ Variables with links.
 [zfnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/zfnet
 [zfnet-pytorch]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/zfnet/pytorch
 
-[googlenet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/googlenet
+[inceptionv1]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/inception_v1
 
 [vggnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/vgg
 [vggnet-pytorch]: https://github.com/3outeille/Research-Paper-Summary/blob/master/src/architecture/vgg/pytorch/
