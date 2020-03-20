@@ -46,6 +46,10 @@ Variables with links.
 [vggnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/vgg
 [vggnet-pytorch]: https://github.com/3outeille/Research-Paper-Summary/blob/master/src/architecture/vgg/pytorch/
 
+[resnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture
+
+[mobilenet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture
+
 [efficientnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/efficientnet
 [efficientnet-tf2]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/efficientnet/tensorflow_2
 
