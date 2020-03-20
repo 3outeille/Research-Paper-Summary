@@ -15,6 +15,8 @@ Here is an overview of research paper classified by theme:
 [ZFNet/DeconvNet][zfnet]                |                                                |                                                | [&check;][zfnet-pytorch]                   |
 [InceptionV1(GoogLeNet)][inceptionv1]   |                                                |                                                |                                            |
 [VggNet][vggnet]                        |                                                |                                                | [&check;][vggnet-pytorch]                  |
+[ResNet][resnet]                        |                                                |                                                |                                            |
+[MobileNetV2][mobilenet]                |                                                |                                                |                                            |
 [EfficientNet][efficientnet]            |                                                | [&check;][efficientnet-tf2]                    |                                            |
 
 
@@ -35,7 +37,6 @@ Variables with links.
 
 [alexnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/alexnet/
 [alexnet-tf2]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/alexnet/tensorflow_2
-
 
 [zfnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/zfnet
 [zfnet-pytorch]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/zfnet/pytorch
