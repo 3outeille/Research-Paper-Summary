@@ -22,9 +22,6 @@ Here is an overview of research paper classified by theme:
 [EfficientNet][efficientnet]            |                                                | [&check;][efficientnet-tf2]                    |                                            |
 
 
-# Getting Started
-
-
 <!---
 Variables with links.
 -->
