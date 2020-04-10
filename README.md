@@ -14,8 +14,7 @@ Here is an overview of research paper classified by theme:
 [AlexNet][alexnet]                      |                                                | [&check;][alexnet-tf2]                         |                                            |
 [ZFNet/DeconvNet][zfnet]                |                                                |                                                | [&check;][zfnet-pytorch]                   |
 [Inception-V1(GoogLeNet)][inceptionv1]  |                                                |                                                | [&check;][inceptionv1-pytorch]             |
-[Inception-V2][inceptionv2]             |                                                |                                                |                                            |
-[Inception-V3][inceptionv3]             |                                                |                                                |                                            |
+[Inception-V2/V3][inception-v2/v3]      |                                                |                                                |                                            |
 [VggNet][vggnet]                        |                                                |                                                | [&check;][vggnet-pytorch]                  |
 [ResNet][resnet]                        |                                                |                                                |                                            |
 [MobileNetV2][mobilenet]                |                                                |                                                |                                            |
@@ -43,9 +42,7 @@ Variables with links.
 [inceptionv1]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/inception_v1
 [inceptionv1-pytorch]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/inception_v1/pytorch
 
-[inceptionv2]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/inception_v2
-
-[inceptionv3]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/inception_v3
+[inception-v2/v3]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/inception_v2_v3
 
 [vggnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/vgg
 [vggnet-pytorch]: https://github.com/3outeille/Research-Paper-Summary/blob/master/src/architecture/vgg/pytorch/
