@@ -1,0 +1,15 @@
+[Epoch 1/15]: train-loss = 2.559885 | train-acc = 0.259 | val-loss = 2.215568 | val-acc = 0.359
+[Epoch 2/15]: train-loss = 1.992639 | train-acc = 0.424 | val-loss = 1.846719 | val-acc = 0.472
+[Epoch 3/15]: train-loss = 1.640984 | train-acc = 0.537 | val-loss = 1.591195 | val-acc = 0.558
+[Epoch 4/15]: train-loss = 1.385598 | train-acc = 0.619 | val-loss = 1.439533 | val-acc = 0.614
+[Epoch 5/15]: train-loss = 1.168221 | train-acc = 0.684 | val-loss = 1.305238 | val-acc = 0.655
+[Epoch 6/15]: train-loss = 1.002453 | train-acc = 0.731 | val-loss = 1.214881 | val-acc = 0.681
+[Epoch 7/15]: train-loss = 0.851118 | train-acc = 0.771 | val-loss = 1.217857 | val-acc = 0.687
+[Epoch 8/15]: train-loss = 0.711145 | train-acc = 0.811 | val-loss = 1.147356 | val-acc = 0.711
+[Epoch 9/15]: train-loss = 0.608349 | train-acc = 0.838 | val-loss = 1.140132 | val-acc = 0.724
+[Epoch 10/15]: train-loss = 0.515004 | train-acc = 0.863 | val-loss = 1.154486 | val-acc = 0.735
+[Epoch 11/15]: train-loss = 0.437409 | train-acc = 0.885 | val-loss = 1.180348 | val-acc = 0.741
+[Epoch 12/15]: train-loss = 0.386996 | train-acc = 0.899 | val-loss = 1.190746 | val-acc = 0.742
+[Epoch 13/15]: train-loss = 0.339299 | train-acc = 0.911 | val-loss = 1.171836 | val-acc = 0.749
+[Epoch 14/15]: train-loss = 0.293521 | train-acc = 0.923 | val-loss = 1.245975 | val-acc = 0.751
+[Epoch 15/15]: train-loss = 0.235749 | train-acc = 0.938 | val-loss = 1.239976 | val-acc = 0.761
