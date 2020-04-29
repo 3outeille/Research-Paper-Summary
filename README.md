@@ -16,7 +16,7 @@ Here is an overview of research paper classified by theme:
 [Inception-V1(GoogLeNet)][inceptionv1]  |                                                |                                                | [&check;][inceptionv1-pytorch]             |
 [Inception-V2/V3][inception-v2/v3]      |                                                |                                                | [&check;][inception-v2/v3-pytorch]         |
 [VggNet][vggnet]                        |                                                |                                                | [&check;][vggnet-pytorch]                  |
-[ResNet][resnet]                        |                                                |                                                |                                            |
+[ResNet][resnet]                        |                                                |                                                | [&check;][resnet-pytorch]                  |
 [MobileNetV2][mobilenet]                |                                                |                                                |                                            |
 [EfficientNet][efficientnet]            |                                                | [&check;][efficientnet-tf2]                    |                                            |
 
@@ -49,6 +49,7 @@ Variables with links.
 [vggnet-pytorch]: https://github.com/3outeille/Research-Paper-Summary/blob/master/src/architecture/vgg/pytorch/
 
 [resnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture
+[resnet-pytorch]: https://github.com/3outeille/Research-Paper-Summary/blob/master/src/architecture/resnet/pytorch/
 
 [mobilenet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture
 
