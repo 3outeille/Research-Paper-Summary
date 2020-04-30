@@ -17,7 +17,8 @@ Here is an overview of research paper classified by theme:
 [Inception-V2/V3][inception-v2/v3]      |                                                |                                                | [&check;][inception-v2/v3-pytorch]         |
 [VggNet][vggnet]                        |                                                |                                                | [&check;][vggnet-pytorch]                  |
 [ResNet][resnet]                        |                                                |                                                | [&check;][resnet-pytorch]                  |
-[MobileNetV2][mobilenet]                |                                                |                                                |                                            |
+[MobileNetV1][mobilenet-v1]             |                                                |                                                |                                            |
+[MobileNetV2][mobilenet-v2]             |                                                |                                                |                                            |
 [EfficientNet][efficientnet]            |                                                | [&check;][efficientnet-tf2]                    |                                            |
 
 
@@ -51,7 +52,9 @@ Variables with links.
 [resnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture
 [resnet-pytorch]: https://github.com/3outeille/Research-Paper-Summary/blob/master/src/architecture/resnet/pytorch/
 
-[mobilenet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture
+[mobilenet-v1]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture
+
+[mobilenet-v2]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture
 
 [efficientnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/efficientnet
 [efficientnet-tf2]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/efficientnet/tensorflow_2
