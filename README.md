@@ -22,7 +22,7 @@ Here is an overview of research paper classified by theme:
 [VggNet][vggnet]                        |                                                |                                                | [&check;][vggnet-pytorch]                  |
 [ResNet][resnet]                        |                                                |                                                | [&check;][resnet-pytorch]                  |
 [MobileNetV1][mobilenet-v1]             |                                                |                                                | [&check;][mobilenet-v1-pytorch]            |
-[MobileNetV2][mobilenet-v2]             |                                                |                                                | [&check;][mobilenet-v1-pytorch]            |
+[MobileNetV2][mobilenet-v2]             |                                                |                                                | [&check;][mobilenet-v2-pytorch]            |
 [EfficientNet][efficientnet]            |                                                | [&check;][efficientnet-tf2]                    |                                            |
 
 
