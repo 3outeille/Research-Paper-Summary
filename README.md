@@ -6,6 +6,8 @@ This repository aims to make a concise summary of deep learning research paper t
 
 Here is an overview of research paper classified by theme:
 
+## Experiments
+
 ## Architecture
 
 <i></i>                                 | [![](./img/tensorflow_1_badge.svg)][tf1-badge] | [![](./img/tensorflow_2_badge.svg)][tf2-badge] |[![](./img/pytorch_badge.svg)][pytorch-badge]
@@ -18,7 +20,7 @@ Here is an overview of research paper classified by theme:
 [VggNet][vggnet]                        |                                                |                                                | [&check;][vggnet-pytorch]                  |
 [ResNet][resnet]                        |                                                |                                                | [&check;][resnet-pytorch]                  |
 [MobileNetV1][mobilenet-v1]             |                                                |                                                | [&check;][mobilenet-v1-pytorch]            |
-[MobileNetV2][mobilenet-v2]             |                                                |                                                |                                            |
+[MobileNetV2][mobilenet-v2]             |                                                |                                                | [&check;][mobilenet-v1-pytorch]            |
 [EfficientNet][efficientnet]            |                                                | [&check;][efficientnet-tf2]                    |                                            |
 
 
@@ -56,6 +58,7 @@ Variables with links.
 [mobilenet-v1-pytorch]: https://github.com/3outeille/Research-Paper-Summary/blob/master/src/architecture/mobilenet_v1/pytorch/
 
 [mobilenet-v2]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture
+[mobilenet-v1-pytorch]: https://github.com/3outeille/Research-Paper-Summary/blob/master/src/architecture/mobilenet_v2/pytorch/
 
 [efficientnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/efficientnet
 [efficientnet-tf2]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/efficientnet/tensorflow_2
