@@ -3,13 +3,14 @@
 </div>
 
 This repository aims to:
-    - Make a concise summary of deep learning research paper that I have read (including implementation if needed).
-    - Experiments on various topics.
+  - Make a concise summary of deep learning research paper that I have read (including implementation if needed).
+  - Experiments on various topics.
+
 Here is an overview of research paper classified by theme:
 
 ## Experiments
 
-## Architecture
+## Architectures
 
 <i></i>                                 | [![](./img/tensorflow_1_badge.svg)][tf1-badge] | [![](./img/tensorflow_2_badge.svg)][tf2-badge] |[![](./img/pytorch_badge.svg)][pytorch-badge]
 ------------------                      | :---------------------------------------------:|:----------------------------------------------:|:-------------------------------------------:
