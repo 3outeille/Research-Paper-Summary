@@ -2,8 +2,9 @@
   <img src="./img/logo.png">
 </div>
 
-This repository aims to make a concise summary of deep learning research paper that I have read including implementation if needed.
-
+This repository aims to:
+    - Make a concise summary of deep learning research paper that I have read (including implementation if needed).
+    - Experiments on various topics.
 Here is an overview of research paper classified by theme:
 
 ## Experiments
