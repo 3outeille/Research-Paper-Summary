@@ -25,10 +25,18 @@ Here is an overview of research paper classified by theme:
 [MobileNetV2][mobilenet-v2]             |                                                |                                                | [&check;][mobilenet-v2-pytorch]            |
 [EfficientNet][efficientnet]            |                                                | [&check;][efficientnet-tf2]                    |                                            |
 
+## Unsupervised learning
+
+- [Unsupervised Visual Representation Learning by Context Prediction](https://arxiv.org/pdf/1505.05192.pdf) (in progress)
 
 <!---
 Variables with links.
 -->
+
+<!--
+    ARCHITECTURE
+-->
+
 [tf1-badge]: https://www.tensorflow.org/
 [tf2-badge]: https://www.tensorflow.org/
 [pytorch-badge]: https://pytorch.org/
@@ -65,4 +73,6 @@ Variables with links.
 [efficientnet]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/efficientnet
 [efficientnet-tf2]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/efficientnet/tensorflow_2
 
-
+<!--
+    Unsupervised learning
+-->
