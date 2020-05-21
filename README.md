@@ -27,7 +27,7 @@ Here is an overview of research paper classified by theme:
 
 ## Unsupervised learning
 
-- [Unsupervised Visual Representation Learning by Context Prediction][unsupervised-learning-1] (in progress)
+- [Unsupervised Visual Representation Learning by Context Prediction][unsupervised-learning-1] 
   - by U. Doersch, A. Gupta and AA. Efros at ICCV 2015.
 <!---
 Variables with links.
@@ -76,4 +76,4 @@ Variables with links.
 <!--
     Unsupervised learning
 -->
-[unsupervised-learning-1]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/unsupervised_learning/unsupervised-visual-representation-learning-by-context-prediction
+[unsupervised-learning-1]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/unsupervised_learning/unsupervised-visual-representation
