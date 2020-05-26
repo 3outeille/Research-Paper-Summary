@@ -74,6 +74,6 @@ Variables with links.
 [efficientnet-tf2]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/architecture/efficientnet/tensorflow_2
 
 <!--
-    Unsupervised learning
+    Self-supervised learning
 -->
 [unsupervised-learning-1]: https://github.com/3outeille/Research-Paper-Summary/tree/master/src/unsupervised_learning/unsupervised-visual-representation
