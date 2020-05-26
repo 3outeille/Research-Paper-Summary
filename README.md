@@ -25,7 +25,7 @@ Here is an overview of research paper classified by theme:
 [MobileNetV2][mobilenet-v2]             |                                                |                                                | [&check;][mobilenet-v2-pytorch]            |
 [EfficientNet][efficientnet]            |                                                | [&check;][efficientnet-tf2]                    |                                            |
 
-## Unsupervised learning
+## Self-supervised learning
 
 - [Unsupervised Visual Representation Learning by Context Prediction][unsupervised-learning-1] 
   - by U. Doersch, A. Gupta and AA. Efros at ICCV 2015.
