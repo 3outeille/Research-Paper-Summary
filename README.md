@@ -6,6 +6,8 @@ This repository aims to:
   - Make a concise summary of deep learning research paper that I have read (including implementation if needed).
   - Experiments on various topics.
 
+If there is any problems regarding jupyter notebook loading on github, copy paste the link to [jupyter notebook nbviewer](https://nbviewer.jupyter.org/).
+
 Here is an overview of research paper classified by theme:
 
 ## Experiments
